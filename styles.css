@@ -1,0 +1,40 @@
+#wrapper {
+  width: 960px;
+  margin: auto;
+  background-color: rgb(255, 249, 220); 
+  padding: 20px;
+}
+
+nav {
+  float: right;
+  width: 300px;
+  padding: 20px;
+  background-color: rgb(255, 253, 242); 
+}
+
+a:hover {
+  background-color: rgb(90, 147, 255); 
+}
+
+header {
+text-align: center;
+background-color: rgb(255, 92, 92);
+}
+
+footer {
+text-align: center;
+background-color: rgb(255, 92, 92);
+}
+
+#tagline {
+    background-color: rgb(90, 147, 255); 
+}
+
+h1, h2 {
+background-color:  rgb(246, 222, 163); 
+}
+
+#hh {
+text-align: center;
+background-color: rgb(255, 92, 92);
+}
